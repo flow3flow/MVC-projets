@@ -3,5 +3,9 @@ config.php
 # PHPStorm
 .idea/
 # Workbench
+<<<<<<< HEAD
 data/flo_mvcproject.mwb.bak
+=======
+data/mvcprojetsV1.mwb.bak
+>>>>>>> be12134bacc36c6c8304664c771ebcdcba724789
 
