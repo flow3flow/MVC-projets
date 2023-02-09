@@ -2,3 +2,6 @@
 config.php
 # PHPStorm
 .idea/
+# Workbench
+data/flo_mvcproject.mwb.bak
+
